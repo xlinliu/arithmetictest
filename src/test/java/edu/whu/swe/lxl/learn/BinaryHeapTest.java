@@ -1,11 +1,9 @@
 package edu.whu.swe.lxl.learn;
 
-import org.junit.Before;
+import edu.whu.swe.lxl.learn.tree.BinaryHeap;
 import org.junit.Test;
 
 import java.util.Random;
-
-import static org.junit.Assert.*;
 
 public class BinaryHeapTest {
     private int count = 10000;

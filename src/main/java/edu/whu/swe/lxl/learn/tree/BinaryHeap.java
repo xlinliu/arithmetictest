@@ -1,6 +1,4 @@
-package edu.whu.swe.lxl.learn;
-
-import sun.invoke.empty.Empty;
+package edu.whu.swe.lxl.learn.tree;
 
 public class BinaryHeap<T extends Comparable<? super T>> {
     public static void main(String[] args)throws Exception {

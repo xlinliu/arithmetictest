@@ -15,7 +15,7 @@ public class QuickSort {
             if(j>i)
                 array[j--] = array[i];
         }
-        array[j]=tmp;
+        array[i]=tmp;
         sort(array, l, i-1);
         sort(array,i+1,r);
     }

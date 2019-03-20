@@ -1,10 +1,10 @@
 package edu.whu.swe.lxl.learn;
 
-public class CoinCombinate {
+public class Coin5_2_1Combinate {
 
     public static void main(String[] args) {
         int n = 6;
-        System.out.print(CoinCombinate.resolve(n));
+        System.out.print(Coin5_2_1Combinate.resolve(n));
     }
 
     private static int resolve(int n) {

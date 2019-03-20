@@ -1,4 +1,4 @@
-package edu.whu.swe.lxl.learn;
+package edu.whu.swe.lxl.learn.array;
 
 import java.util.Arrays;
 import java.util.Random;
